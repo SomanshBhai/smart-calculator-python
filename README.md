@@ -25,13 +25,10 @@ This project performs basic arithmetic operations through a clean graphical user
 
 ---
 
-## 📷 Screenshot
+## 📷 Screenshot 
 
-Add a screenshot of the calculator here.
+<img width="1366" height="735" alt="Screenshot" src="https://github.com/user-attachments/assets/b2584dae-79a1-4e16-b47a-de1ea29c8e2e" />
 
-Example:
-
-![Smart Calculator Screenshot](screenshot.png)
 
 ---
 
